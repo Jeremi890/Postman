@@ -34,3 +34,4 @@ C:\Users\joelb\Documents\Repositorios_UG\2026_2027CII\DAWA_74\TaskFlowApi\obj\De
 C:\Users\joelb\Documents\Repositorios_UG\2026_2027CII\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.pdb
 C:\Users\joelb\Documents\Repositorios_UG\2026_2027CII\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.genruntimeconfig.cache
 C:\Users\joelb\Documents\Repositorios_UG\2026_2027CII\DAWA_74\TaskFlowApi\obj\Debug\net10.0\ref\TaskFlowApi.dll
+C:\Users\joelb\Documents\Repositorios_UG\2026_2027CII\DAWA_74\TaskFlowApi\obj\Debug\net10.0\TaskFlowApi.sourcelink.json
